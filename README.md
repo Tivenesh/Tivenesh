@@ -33,4 +33,4 @@ HarvardX: CS109XA Machine Learning and AI with Python
 ## 📫 How to Reach Me
 Email: Tivensrinivasan@gmail.com
 
-LinkedIn: Tivenesh Srinivasan
+LinkedIn: **[TIVENESH_SRINIVASAN](https://www.linkedin.com/in/tivenesh-srinivasan-501150164/)**
