@@ -18,10 +18,13 @@ Cloud: AWS Cloud Solutions, Microsoft Azure
 
 ## 🚀 My Projects
 - 💻 **[TVPSS Student Tracking System](https://github.com/Tivenesh/InterNetProgramming_NetNinjas.git)** - A role-based web app...
+  
 - 📚 **[Online Bookshop Management](https://github.com/Tivenesh/OOP_Project.git)** - A secure e-commerce platform built with PHP, MySQL, and JavaScript for managing inventory, sales, and user accounts.
-- 🔗 **[StudySync Web Application]([https://github.com/ZafranSY/StudySync](https://github.com/Tivenesh/StudySycc.git))** - A dynamic data management app with a Vue.js frontend and a Node.js backend.
+  
+- 🔗 **[StudySync Web Application](https://github.com/Tivenesh/StudySycc.git)** - A dynamic data management app with a Vue.js frontend and a Node.js backend.
+  
 - 🗂️ **[Library Management System](https://github.com/Tivenesh/OOP_Project.git)** - A desktop application using Java and JavaFX to demonstrate core Object-Oriented Programming principles.
-- 
+
 ## 🌱 Certifications & Learning
 AWS Cloud Solutions Architecture Professional Certificate (Ongoing)
 
