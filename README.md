@@ -6,15 +6,37 @@ I am Lead AI Engineer at Tinker Society, where I am developing TinkerOS, an inte
 
 Alongside this role, I oversee architecture and major technical decisions for freelance projects through Tesseracq Labs. My earlier experience includes software engineering internships at NextLabs and Holistics Lab.
 
-## Selected work
+## AI applications and business systems
 
 | Project | My work | Status |
 | --- | --- | --- |
 | MAIStorage Document Chat | FastAPI/Next.js document chat, Gemini embeddings, cosine retrieval with keyword fallback, SSE and SQLite persistence | Technical assessment |
-| [XFitness](https://tesseracqlabs.com/work/xfitness) | Authenticated payments, branch and role checks, and duplicate-protected membership entitlements | Implemented code |
+| [XFitness mobile and admin](https://tesseracqlabs.com/work/xfitness) | React Native/Expo member-app and Next.js administration features connecting authenticated payments, role and branch checks, memberships and duplicate-protected entitlements | Implemented code |
+| Venisha Chicken / Triple S Chicken | Ordering storefront and checkout, back-office order workflows and rider interface using Next.js, TypeScript and PostgreSQL | Implemented system; payment and courier integrations in sandbox |
+| Arura Event Hall website and dashboard | Venue website, booking calendar, customer portal, owner dashboard and document previews | Synthetic review preview |
+| PTSI education platform | Marketing website, role-specific dashboard interfaces, authenticated APIs and Excel marks import | Implemented website and API code |
+| SwoleMate | React Native/Expo fitness app with meal and workout logging and a Gemini-backed consultation API | Academic prototype |
 | Industrial Vision | Camera acquisition, pixel-to-world calibration and acknowledged coordinate queues using Python, PySide6 and OpenCV | Prototype; commissioning in progress |
+
+## Websites and interactive experiences
+
+| Project | My work | Status |
+| --- | --- | --- |
+| 7 Spice Indian Cuisine | Next.js restaurant site with scroll-driven canvas storytelling, menu pages and a reservation interface | Implemented front end; reservation submission is simulated |
 | Aero Construction | Render-on-demand Three.js house scene and Sanity content pipeline | Staging implementation |
 | Mechtell | Editable DOCX and PDF company-profile exports | Implemented features |
+| XFitness marketing website | Separate Next.js marketing site with gym-app presentation, membership-plan data and motion-led page sections | Client-review preview |
+| Tesseracq Labs website | Next.js agency portfolio, work pages and a Three.js home-page experience | Implemented site; redesign in progress |
+| Viza Vision | Static service website with a scroll-driven Three.js globe and a contact flow that prepares an email draft | Local preview; review paused |
+
+## Prototypes and academic work
+
+| Project | My work | Status |
+| --- | --- | --- |
+| Cili Kampung / Poket loyalty concept | React interface for membership tiers, points, rewards and navigation | Interactive prototype with sample data |
+| Tesseracq Trades | Custom Pine Script strategy components and an FX Replay companion indicator | Research prototype |
+| Automatic hand sanitizer controller | Co-developed a Verilog finite-state controller with servo PWM and separate simulation/hardware modes | Academic hardware implementation |
+| Remotion motion-graphics pipeline | React/Remotion compositions with editable timelines and separate narration, music and sound-effect tracks | Local prototype; creative review pending |
 
 ## Technical focus
 
