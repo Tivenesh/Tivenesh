@@ -38,6 +38,22 @@ Alongside this role, I oversee architecture and major technical decisions for fr
 | Automatic hand sanitizer controller | Co-developed a Verilog finite-state controller with servo PWM and separate simulation/hardware modes | Academic hardware implementation |
 | Remotion motion-graphics pipeline | React/Remotion compositions with editable timelines and separate narration, music and sound-effect tracks | Local prototype; creative review pending |
 
+## More public repositories
+
+These repositories include application prototypes, technical exercises and collaborative study projects.
+
+| Project | Work | Status |
+| --- | --- | --- |
+| [Flutter commerce app](https://github.com/Tivenesh/ecommerce) | Flutter catalogue, cart and order flows using Firebase-backed repositories | Application prototype |
+| [Course Registration System](https://github.com/Tivenesh/OOP_Project) | Java console/application and admin code contributions in a course-registration group project | Collaborative academic project |
+| MulahTech assessments: [A](https://github.com/Tivenesh/AssesmentA_MulahTech) / [B](https://github.com/Tivenesh/AssesmentB_MulahTech) | Spring/Jsoup article aggregation and a client-side registration/summary flow | Technical assessments |
+| Horizon AI: [front end](https://github.com/Tivenesh/horizon-ai-frontend) / [back end](https://github.com/Tivenesh/horizon-ai-backend) | Next.js query interface and Node.js/Gemini summary-service code | AI application prototype |
+| [CSV processing tool](https://github.com/Tivenesh/Internship---Software-Engineer-MY) | Java/Spring CSV upload, parsing and computed result tables | Technical exercise |
+| [Suria Mentari redesign](https://github.com/Tivenesh/redesign-suriamentari-com) | Next.js marketing-page structure with navigation, hero, mission and service sections | Website redesign concept |
+| [StudySync](https://github.com/Tivenesh/StudySycc) | Vue link-sharing permission component contributions in a shared study-resource platform | Collaborative project |
+| [Marketing-site concept](https://github.com/Tivenesh/florilege-restaurant) | Animated Next.js sections and contact-form integration in the florilege-restaurant repository | Website concept |
+| [Student Grade Tracker](https://github.com/Tivenesh/StudentGradeTracker) | ASP.NET Core student CRUD API with in-memory sample data | API demonstration |
+
 ## Technical focus
 
 - Python, TypeScript, SQL, FastAPI and REST APIs
